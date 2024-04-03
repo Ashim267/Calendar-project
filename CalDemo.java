@@ -1,12 +1,3 @@
-// File name: CalDemo.java
-// Author: 
-// VUnetid: 
-// Email: 
-// Class: CS2201
-// Date: 
-// Honor statement:
-// Assignment Number: 
-// Description: An executable program to try things with the Calendar class
 
 
 public class CalDemo {
